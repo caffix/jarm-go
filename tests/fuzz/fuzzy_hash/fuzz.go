@@ -1,6 +1,6 @@
 package fuzz
 
-import "github.com/hdm/jarm-go"
+import "github.com/caffix/jarm-go"
 
 // Fuzz uses go-fuzz to test RawHashToFuzzyHash()
 func Fuzz(data []byte) int {

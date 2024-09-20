@@ -15,7 +15,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/hdm/jarm-go"
+	"github.com/caffix/jarm-go"
 )
 
 // Version is set by the goreleaser build
